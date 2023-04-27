@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OoWaterMelonS
 - 👀 I’m interested in Java Web 
 - 🌱 I’m currently learning CV
-- 💞️ I’m looking to collaborate on Java Engineer
 
 
 <!---
